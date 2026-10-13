@@ -1,0 +1,11 @@
+Canonical source snapshot:
+https://github.com/avi691/linkedin-agent-skill/tree/e4ec4fb6f1b0e227eb9b14b31b735072db5df9cb
+
+Not included in this scaffold; import exact upstream versions:
+skills/li-post/hooks.json
+skills/li-profile/rubric.json
+skills/li-human/slop.json
+skills/li-human/humanize.py
+skills/li-human/detect.py
+All original skills/li-*/SKILL.md files
+Original templates/voice.md
